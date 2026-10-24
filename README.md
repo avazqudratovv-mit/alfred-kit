@@ -2,6 +2,8 @@
 
 My setup for working with AI as a developer: a mentor persona, personal Claude Code rules and skills, a playbook for joining existing projects, and a starter kit for new ones.
 
+**New here? Read [HOW-TO-USE.md](HOW-TO-USE.md).**
+
 ## What's inside
 
 | Folder | What it's for | Where it goes |
