@@ -1,0 +1,23 @@
+# My notes for this repo (private — never commit)
+
+<!-- Rename to CLAUDE.local.md in the repo root. Make sure it's ignored:
+     it's in .gitignore, or run: echo "CLAUDE.local.md" >> .git/info/exclude
+     Claude Code loads it automatically, on your machine only. -->
+
+## Me
+- I'm new to this codebase (joined <month>). Explain unfamiliar patterns briefly when you use them.
+- My team / area: <team, the part of the code I own>
+
+## Commands that work on my machine
+- Run: <...>
+- Test one file: <...>
+- Lint / type check: <...>
+
+## Don't touch
+- <generated folders, vendor code, engine folders, migrations owned by another team>
+
+## Gotchas I've learned
+- <e.g. "the dev DB is shared — never run seed scripts">
+
+## People
+- <who to ask about what — roles only, no personal data>

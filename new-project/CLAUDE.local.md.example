@@ -1,0 +1,6 @@
+# Personal notes for Claude (rename to CLAUDE.local.md, keep it out of git)
+
+<!-- Only for you, on this machine. Add CLAUDE.local.md to .gitignore. -->
+- Explain things to me simply; I'm still learning this stack.
+- My local URLs: frontend http://localhost:3000, API http://localhost:3007.
+- When you finish a task, also give me one sentence I could say about it in an interview.
